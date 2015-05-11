@@ -424,5 +424,20 @@ var places = [
         "provision": "coffee, tea, sandwiches, muffins, sweets, lunch"
     },
     "link": {"Homepage":"http://www.goldmundkoeln.de"}
+},
+{
+    "city": "London",
+    "country": "GB",
+    "name": "JD Wetherspoon",
+    "address": "All over the UK",
+    "coordinates": ["51.507351","-0.127758"],
+    "description": {
+        "internet": "Free high speed wifi for as long as you want to sit in the pub",
+        "power_outlets": "Some",
+        "seating": "Various chairs or booths",
+        "service": "Friendly",
+        "provision": "coffee, tea, beer, steak, everything"
+    },
+    "link": {"Homepage":"http://www.jdwetherspoon.co.uk"}
 }
 ]
